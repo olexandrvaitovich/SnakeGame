@@ -1,0 +1,11 @@
+<html>
+  <head>
+    <title>Snake Game</title>
+    <meta content="">
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+  <h1>Snake Game</h1>
+  <canvas class="canvas"></canvas>
+  </body>
+</html>
