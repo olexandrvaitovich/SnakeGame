@@ -2,8 +2,36 @@ body{
     margin: 0;
 }
 .canvas{
-    width: 90vw;
-    height: 90vh;
+    width: 80vw;
+    height: 70vh;
     background-color: black;
-    margin: 5vh 5vh 0vw 5vw
+    margin: 5vh 10vh 0vw 10vw
+}
+.button {
+    background-color: white;
+    color: black;
+    border: 2px solid #4CAF50; /* Green */
+    text-align: center;
+    display: block;
+    font-size: calc(0.6vw + 1.2vh);
+    border-radius: 12px;
+    margin-left: 45%;
+    margin-right: 45%;
+    height: 8vh;
+    width: 10vw;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.button:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.game-title{
+    margin-left: 44%;
+    margin-right: 45%;
+    font-size: 2vw;
+    height: 8vh;
+    width: 15vw;
+    margin-bottom: 0px;
 }

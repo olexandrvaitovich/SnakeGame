@@ -5,7 +5,9 @@
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
-  <h1>Snake Game</h1>
+  <h1 class="game-title">Snake Game</h1>
+  <button class="button">Start</button>
   <canvas class="canvas"></canvas>
+  <script type="text/javascript" src="game.js"></script>
   </body>
 </html>
