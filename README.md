@@ -23,3 +23,4 @@ Snake of pure JavaScript
 Виконано:
 -Етап 1
 -Етап 2
+-Етап 3
